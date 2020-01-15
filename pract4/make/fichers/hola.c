@@ -1,1 +1,1 @@
-"#include <studio.h>  int main(){printf("hola mon\n"); return 0; }"
+"#include <stdio.h>  int main(){printf("hola mon\n"); return 0; }"
