@@ -5,7 +5,7 @@
 
 	##hola
 
-		-Com es compila: Creem un arxiu amb qualsevol editor de text anomenat **hola* i amb l'extenció *c*, i l'afegim amb **GIT** al apartat *make/fichers* del directori de **GITHUB**.
+		-Com es compila: Creem un arxiu amb qualsevol editor de text anomenat **hola** i amb l'extenció *c*, i l'afegim amb **GIT** al apartat *make/fichers* del directori de **GITHUB**.
  Després amb l'eina **MAKE** compilem el codi font que acabem de crear amb aquests commands:
 
 		  *  $	make hola; *
@@ -117,7 +117,45 @@ L'afegim amb **GIT** al apartat *make/fichers* del directori de **GITHUB**. Desp
 
 
 
+
+
+
 ----------------
+
+----------------
+
+
+
+
+
+
+
+
+
+#TO-DO 3
+
+
+
+
+
+
+	##MAKEFILE
+
+
+
+		-Calcula: Aquest target quan s'activa, necesita dels arxius clacula.c i calc.o per extraure la informació.
+
+
+
+		-calcula.o: Aquest target quan s'activa, necesita dels arxius calc.c i calc.h, per extraure la informació.
+
+
+		-clean: Aquest target neteja el projecte, el seu objectiu no es generar cap archiu.
+
+
+
+		
+		
 
 
 
