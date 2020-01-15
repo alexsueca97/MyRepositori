@@ -1,0 +1,1 @@
+"carpeta per a llegir"
